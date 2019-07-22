@@ -1,5 +1,21 @@
 #!/usr/bin/python3
 
+#Estrutura de repetição while
+
+r = 'S'
+while r == 'S':
+    n = int(input('Digite um valor: '))
+    r = str(input('Quer continuar? [S/N ')).upper()
+print('Fim')
+
+#----------------------------------------------------------
+n = 1
+while n != 0:
+    n = int(input('Digite: '))
+print('Fim')
+
+#-------------------------------------------------------
+
 num = int(input("digite seu numero: "))  # -Pega o numero do usuario
 x = 1  # aqui e aonde  o loop vai comecar # tbm eh chamado de contador
 while x <= num:  # n e menor ou igual que x ? se for true ele fica ateh x ser maior

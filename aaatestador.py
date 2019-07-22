@@ -1,11 +1,17 @@
 #!/usr/bin/python3
 
-#fatorial de 12
-i = 1
-fat = 1
-while i <= 12:
-    fat = fat * i
-    i = i + 1
-print("Fat(12) = %d" % fat)
+#a = int(input("1Digite: "))
+#b = int(input("2Digite: "))
+#c = int(input("3Digite: "))
 
-#>>>Fat(12) = 479001600
+#if a >= b and a >= c:
+#    print('primeiro: %d' % a)
+#elif b >= c:
+#    print('Segundo: %d' % b)
+#else:
+#    print('Terceiro: %d' % c)
+
+n = 1
+while n != 0:
+    n = int(input('Digite: '))
+print('Fim')
