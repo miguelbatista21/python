@@ -11,7 +11,35 @@
 #else:
 #    print('Terceiro: %d' % c)
 
-n = 1
-while n != 0:
-    n = int(input('Digite: '))
-print('Fim')
+#-------------------------------------------------
+#uma lista com 3 notas
+#notas = [7.5, 9, 8.3]
+#acessando uma nota
+#print (notas[0])
+#>>>7.5
+#mudando a primeira nota
+#notas [0] = 8.7
+#print (notas[0])
+#>>>8.7
+#print(200 / 6)
+#print(205 // 6)
+#
+#
+#
+#
+# Python code to demonstrate the working of
+# sum()
+
+#numbers = [1, 2, 3, 4, 5, 1, 4, 5]
+
+# start parameter is not provided
+#Sum = sum(numbers)
+#print(Sum)
+
+# start = 10
+#Sum = sum(numbers, 10)
+#print(Sum)
+
+numeros = ['1', '3', '2', '20', '4', '10', '30']
+numeros.sort()
+print(numeros)
