@@ -50,7 +50,7 @@ while i >= 0:
 #>>>Digite um numero: 80
 #>>>Digite um numero: 90
 #>>>Digite um numero: 100
-#>>>100.0
+#100.0
 #90.0
 #80.0
 #70.0
